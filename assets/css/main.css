@@ -131,6 +131,7 @@ input, select, textarea {
 	}
 
 	p {
+		font-size: 1.2em;
 		margin: 0 0 2em 0;
 	}
 
@@ -147,13 +148,13 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 3em;
 		line-height: 1.5em;
 	}
 
 	h2 {
-		font-size: 1.5em;
-		line-height: 1.5em;
+		font-size: 2em;
+		line-height: 2em;
 	}
 
 	h3 {
@@ -1765,15 +1766,16 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #ffffff;
+		font-size: 1.5em;
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 0 0;
 	}
 
 	header h2 + p {
-		font-size: 1.25em;
+		font-size:1.5em;
 		margin-top: -1em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	header h3 + p {
@@ -2165,6 +2167,7 @@ input, select, textarea {
 	}
 
 		ul li {
+			font-size: 1.2em;
 			padding-left: 0.5em;
 		}
 
@@ -2567,8 +2570,8 @@ input, select, textarea {
 		}
 
 		.work-item p {
-			font-size: 0.8em;
-			line-height: 1.5em;
+			font-size: 1.2em;
+			line-height: 1.6em;
 			margin: 0;
 		}
 
